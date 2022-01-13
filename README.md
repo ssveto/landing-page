@@ -1,2 +1,2 @@
 # landing-page
-final project for top's foundation
+final project for top's foundation html/css
